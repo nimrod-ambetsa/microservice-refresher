@@ -5,6 +5,5 @@ spring:
     import: optional:configserver:http://localhost:8088
 
 
-# "optional:configserver:http://localhost:8088"
 
 
